@@ -1,2 +1,5 @@
 # Blue_and_Red
-blue and red game (XO)
+<b>
+blue and red game (XO) 
+</b>b>
+<image >
