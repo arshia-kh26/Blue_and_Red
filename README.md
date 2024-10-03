@@ -1,7 +1,9 @@
 # Blue_and_Red
-<b>
-    blue and red game (XO)
+
+<b style="font-size: xx-large; font-family: Arial, Helvetica, sans-serif;">
+blue and red game (XO)
 </b>
+<br>
 <p>This game is similar to XO game with blue and red box</p>
 <p>If blue player win, this text is show</p>
 <img src="Images/Blue_win.png" alt="">
