@@ -17,6 +17,6 @@ Blue and Red game (XO)
 <img src="Images/Red_win.png" alt="">
 
 <p>
-  If both players are equal, text "equal" will be displayed
+  If both players are equal, text "equal" will be displayed.
 </p>
 <img src="Images/equal.png" alt="">
