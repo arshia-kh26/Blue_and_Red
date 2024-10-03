@@ -7,8 +7,8 @@ Blue and Red game (XO)
 
 ***
 
-<p></p>
-<p>This game is similar to XO game with blue and red box</p>
+
+> This game is similar to XO game with blue and red box
 
 <p>If the blue player wins, the text "blue win" will be displayed.</p>
 <img src="Images/Blue_win.png" alt="">
