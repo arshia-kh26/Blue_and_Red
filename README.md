@@ -2,7 +2,7 @@
 
 <b>
 <b style="font-size: 50px; font-family: Arial, Helvetica, sans-serif;">
-blue and red game (XO)
+Blue and Red game (XO)
 </b>
 </b>
 
